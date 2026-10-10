@@ -1,0 +1,2 @@
+# just_check_flatpak_update
+flatpakのアップデートチェックをやるだけのコマンド。 
